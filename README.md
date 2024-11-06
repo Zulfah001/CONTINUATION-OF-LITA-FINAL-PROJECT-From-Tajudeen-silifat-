@@ -42,7 +42,7 @@
 1. Highest quantity sold: Hat
 
 
-## Visualizations:
+## Screenshots of Pivot Table:
 
 [Insert screenshots or descriptions of pivot tables, charts, or graphs created]
 
@@ -63,7 +63,6 @@
 
  ## Queries Screenshots 
 
-No need to include the import process or database setup in your report. Focus on the queries and insights.
 
 ## Key Findings:
 
@@ -152,4 +151,21 @@ No need to include the import process or database setup in your report. Focus on
 - Customers tend to maintain their subscriptions for approximately 1 year.
 - North region has a high cancellation rate.
 
-Check the file above for more details: lita project (Sales and customer data) 
+## Check the file above for more details: lita project (Sales and customer data) 
+
+### SQL  Analysis Report
+
+To better understand customer subscription trends and sales patterns, SQL queries were utilized to extract and analyze data from the retail store's database. The queries focused on:
+1. Total number of customers from each region
+2. Most popular subscription type by number of customers
+3. Average subscription duration for all customers
+4. Customers with subscription longer than 12 months
+5. Top 3 regions by subscription cancellation
+6. Total number of active and cancelled subscriptions
+
+## Screenshot of queries below:
+
+## Key Findings:
+
+### Power BI Analysis Report:
+
