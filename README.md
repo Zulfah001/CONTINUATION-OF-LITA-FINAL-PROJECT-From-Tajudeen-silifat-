@@ -189,14 +189,32 @@ To better understand customer subscription trends and sales patterns, SQL querie
 5. Top 3 regions by subscription cancellation
 6. Total number of active and cancelled subscriptions
 
+## Key Findings:
+Here's a summary of your findings:
+
+*Key Findings:*
+
+1. Canceled subscriptions within 6 months: 0
+2. Most popular subscription type: Basic
+3. Top 3 regions by cancellation rate (ascending):
+    - North (highest)
+4. Active subscribers: 18,612
+5. Canceled subscribers: 15,175
+6. Subscription type by customer numbers:
+    - Basic (16,921 subscribers)
+7. Subscribers by region:
+    - East (highest)
+    - West (lowest)
+
+
 ## Screenshot of queries below:
 ![17309560424664373481592242642567](https://github.com/user-attachments/assets/03ecc0b2-67a4-4306-ab48-594bbdd21339) 
 
 ![17309615888332844780514806515686](https://github.com/user-attachments/assets/8e21f9aa-b757-46bf-960b-91a89348a9cc)
 
-## Key Findings:
+### Power BI Analysis Report:These findings arr:
 
-### Power BI Analysis Report:
+The visuals below shows the analysed findings gotten from the data:
 
 ## Screenshot of visuals :
 ![17309555271143996369303644009427](https://github.com/user-attachments/assets/99ff3a9a-0871-4efb-b7f7-c0ca5aa832f4)
