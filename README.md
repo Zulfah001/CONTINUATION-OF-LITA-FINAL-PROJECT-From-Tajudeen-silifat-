@@ -53,7 +53,9 @@
 8. Products with no sales in the last quarter (None found)
 
  ## Queries Screenshots :
- ![17309560424664373481592242642567](https://github.com/user-attachments/assets/03ecc0b2-67a4-4306-ab48-594bbdd21339)
+ 
+
+![17309606395357429628625527720047](https://github.com/user-attachments/assets/ac58b3bd-afaa-4126-83cb-18d7b630cd0a)
 
 
 
@@ -179,6 +181,7 @@ To better understand customer subscription trends and sales patterns, SQL querie
 6. Total number of active and cancelled subscriptions
 
 ## Screenshot of queries below:
+![17309560424664373481592242642567](https://github.com/user-attachments/assets/03ecc0b2-67a4-4306-ab48-594bbdd21339
 
 ## Key Findings:
 
