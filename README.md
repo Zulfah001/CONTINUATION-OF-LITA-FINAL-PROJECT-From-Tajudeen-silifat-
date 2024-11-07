@@ -125,6 +125,8 @@
     - Average subscription duration in days
   
     ## Pivot Table screenshot:
+   ![17309552040168181378995148724558](https://github.com/user-attachments/assets/ff0f7d5b-272b-49c1-8819-e3f0e691aaf4)
+
    ## Screenshot of Pivot table:
 ![17309548632528854135022826307525](https://github.com/user-attachments/assets/0e792391-ea21-4927-81e3-db7c5aaa88e9)
 
