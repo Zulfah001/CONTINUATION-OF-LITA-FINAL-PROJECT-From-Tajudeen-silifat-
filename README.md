@@ -53,7 +53,8 @@
 8. Products with no sales in the last quarter (None found)
 
  ## Queries Screenshots :
- 
+ ![173096109663341519640555165113](https://github.com/user-attachments/assets/4fbfc490-ebf4-4b40-909e-372d626dd5f7)
+
 
 ![17309606395357429628625527720047](https://github.com/user-attachments/assets/ac58b3bd-afaa-4126-83cb-18d7b630cd0a)
 
@@ -140,8 +141,7 @@
    ![17309552040168181378995148724558](https://github.com/user-attachments/assets/ff0f7d5b-272b-49c1-8819-e3f0e691aaf4)
 
    ## Screenshot of Pivot table:
-![17309548632528854135022826307525](https://github.com/user-attachments/assets/0e792391-ea21-4927-81e3-db7c5aaa88e9)
-
+![17309548632528854135022826307525](https://github.com/user-attachments/assets/0e792391-ea21-4927-81e3-db7c5aaa88e9)) 
 
 ## Key Findings:
 1. Regional Subscription Analysis:
@@ -183,7 +183,7 @@ To better understand customer subscription trends and sales patterns, SQL querie
 6. Total number of active and cancelled subscriptions
 
 ## Screenshot of queries below:
-![17309560424664373481592242642567](https://github.com/user-attachments/assets/03ecc0b2-67a4-4306-ab48-594bbdd21339
+![17309560424664373481592242642567](https://github.com/user-attachments/assets/03ecc0b2-67a4-4306-ab48-594bbdd21339) 
 
 ## Key Findings:
 
