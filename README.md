@@ -125,7 +125,9 @@
     - Average subscription duration in days
   
     ## Pivot Table screenshot:
-   
+   ## Screenshot of Pivot table:
+![17309548632528854135022826307525](https://github.com/user-attachments/assets/0e792391-ea21-4927-81e3-db7c5aaa88e9)
+
 
 ## Key Findings:
 1. Regional Subscription Analysis:
@@ -151,6 +153,8 @@
 - Basic subscription type is the most popular and generates the most revenue.
 - Customers tend to maintain their subscriptions for approximately 1 year.
 - North region has a high cancellation rate.
+
+
 
 ## Check the file above for more details: lita project (Sales and customer data) 
 
