@@ -77,6 +77,8 @@
 ### POWER BI VISUALIZATION
    This shows a detailed visuals on the fondinds carried out so far. Filters and slices are also used to 
    Show variation. 
+   ![17309558835432931386602711867393](https://github.com/user-attachments/assets/f30ad4d6-cdbb-4748-b212-737f72a777b8)
+
 
 ## Measures created:
 1. Percentage of sales by product.
@@ -86,7 +88,7 @@
 ## Visualization screenshot:
 ![17309556545254756239112319005474](https://github.com/user-attachments/assets/e0789195-5c4a-4ba2-b8d7-adfe9cd980d8)
 
-
+### Conclusion:
 
 
 
