@@ -185,6 +185,8 @@ To better understand customer subscription trends and sales patterns, SQL querie
 ## Screenshot of queries below:
 ![17309560424664373481592242642567](https://github.com/user-attachments/assets/03ecc0b2-67a4-4306-ab48-594bbdd21339) 
 
+![17309615888332844780514806515686](https://github.com/user-attachments/assets/8e21f9aa-b757-46bf-960b-91a89348a9cc)
+
 ## Key Findings:
 
 ### Power BI Analysis Report:
