@@ -194,4 +194,6 @@ To better understand customer subscription trends and sales patterns, SQL querie
 ## Screenshot of visuals :
 ![17309555271143996369303644009427](https://github.com/user-attachments/assets/99ff3a9a-0871-4efb-b7f7-c0ca5aa832f4)
 
+![17309617539195405403379884222655](https://github.com/user-attachments/assets/73f21f50-e592-4976-8f3e-33081139bbad)
 
+### Conclusion:
