@@ -17,14 +17,11 @@
 6. Analyzed total quantities by product sold in each month.
 
 ## Key Findings
-
 1. Top-selling product: Gloves (₦296,296,900)
 2. Lowest-selling product: Socks (₦180,785)
-
 # Revenue by Product:
 1. Highest revenue: Shoes (₦613,380)
 2. Lowest revenue: Socks (₦180,785)
-
 # Revenue by Region:
 1. Highest revenue: South (₦927,820)
 2. Lowest revenue: West (₦300,345)
@@ -46,7 +43,6 @@
 ### SQL REPORT 
 
 ## Queries:
-
 1. Total sales by product category
 2. Sales transactions by region
 3. Highest selling product by total sales value
@@ -62,12 +58,24 @@
 
 
 ## Key Findings:
+1. Highest revenue-generating region: South (₦927,820)
+2. Lowest revenue-generating region: West (₦345,000)
+3. Regional sales ranking:
+    - South (₦927,820)
+    - North (₦?)
+    - East (₦?)
+    - West (₦345,000)
 
-- Summary of sales performance
-- Regional sales trends
-- Product sales insights
-- Customer purchasing patterns
-- Highest revenue generating region
+# Monthly Sales (2024
+1. Highest sales month: February (₦298,800)
+2. Lowest sales month: July (₦37,200)
+
+# Percentage of Sales by Region
+1. South: highest percentage
+2. West: lowest percentage
+
+# Product Sales in Last Quarter:
+ All products have sales, although some may have low sales.
 
 
 ### POWER BI VISUALIZATION
