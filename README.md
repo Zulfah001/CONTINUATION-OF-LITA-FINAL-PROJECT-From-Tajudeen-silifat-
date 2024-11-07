@@ -83,7 +83,9 @@
 2. Average monthly sales.
 3. Percentage of sales by region.
 
-## Visualization screenshot
+## Visualization screenshot:
+![17309556545254756239112319005474](https://github.com/user-attachments/assets/e0789195-5c4a-4ba2-b8d7-adfe9cd980d8)
+
 
 
 
