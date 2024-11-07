@@ -5,13 +5,7 @@
 ### PROJECT 1: SALES DATA REPORT FOR A RETAIL STORE
 ### USING EXCEL
 
-## Ojective: Analyze sales data to gain insights into product and regional performance.
-
-## Data Preprocessing:
-
-- Removed duplicates and excessive data
-- Transformed data into a table format
-- Created month Colum using 'TEXT FUNCTION' 
+## Ojective: Analyze sales data to gain insights into product and regional performance. 
 
 ## Analysis: Using Pivot Table
 
@@ -62,7 +56,9 @@
 7. Percentage of total sales by region
 8. Products with no sales in the last quarter (None found)
 
- ## Queries Screenshots 
+ ## Queries Screenshots :
+ ![17309560424664373481592242642567](https://github.com/user-attachments/assets/03ecc0b2-67a4-4306-ab48-594bbdd21339)
+
 
 
 ## Key Findings:
