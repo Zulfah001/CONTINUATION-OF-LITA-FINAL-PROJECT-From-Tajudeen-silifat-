@@ -1,9 +1,9 @@
 
-#### LITA-FINAL-PROJECT-From-Tajudeen-Silifat-
-# A summary of sales data and customer subscription data analysis using excel, SQL and Power bi
+## LITA-FINAL-PROJECT-From-Tajudeen-Silifat-
+## A summary of sales data and customer subscription data analysis using excel, SQL and Power bi
 
-### PROJECT 1: SALES DATA REPORT FOR A RETAIL STORE
-### USING EXCEL
+## PROJECT 1: SALES DATA REPORT FOR A RETAIL STORE
+## USING EXCEL
 
 ## Ojective: Analyze sales data to gain insights into product and regional performance. 
 
@@ -19,17 +19,17 @@
 ## Key Findings
 1. Top-selling product: Gloves (₦296,296,900)
 2. Lowest-selling product: Socks (₦180,785)
-# Revenue by Product:
+### Revenue by Product:
 1. Highest revenue: Shoes (₦613,380)
 2. Lowest revenue: Socks (₦180,785)
-# Revenue by Region:
+### Revenue by Region:
 1. Highest revenue: South (₦927,820)
 2. Lowest revenue: West (₦300,345)
 
-# Monthly Sales:
+### Monthly Sales:
 1. Highest sales: February
 
-# Quantity sold by Product:
+### Quantity sold by Product:
 1. Highest quantity sold: Hat
 
 
@@ -38,9 +38,9 @@
 ![17309546047266983441043427605201](https://github.com/user-attachments/assets/55ff3ae0-da46-4b5a-be4c-ba05dbc1b919)
 
 
-## check this file for further details :lita project(Sales and Customer data).xlsx
+### check this file for further details :lita project(Sales and Customer data).xlsx
 
-### SQL REPORT 
+## SQL REPORT 
 
 ## Queries:
 1. Total sales by product category
@@ -62,7 +62,7 @@
 ![17309613541192944259470743160530](https://github.com/user-attachments/assets/8833ed9b-8d48-4add-9110-09d1c4dfc04c)
 
 
-## Key Findings:
+### Key Findings:
 1. Highest revenue-generating region: South (₦927,820)
 2. Lowest revenue-generating region: West (₦345,000)
 3. Regional sales ranking:
@@ -71,57 +71,57 @@
     - East (₦?)
     - West (₦345,000)
 
-# Monthly Sales (2024
+### Monthly Sales (2024
 1. Highest sales month: February (₦298,800)
 2. Lowest sales month: July (₦37,200)
 
-# Percentage of Sales by Region
+### Percentage of Sales by Region
 1. South: highest percentage
 2. West: lowest percentage
 
-# Product Sales in Last Quarter:
+### Product Sales in Last Quarter:
  All products have sales, although some may have low sales.
 
 
-### POWER BI VISUALIZATION
+## POWER BI VISUALIZATION
    This shows a detailed visuals on the fondinds carried out so far. Filters and slices are also used to 
    Show variation. 
    ![17309558835432931386602711867393](https://github.com/user-attachments/assets/f30ad4d6-cdbb-4748-b212-737f72a777b8)
 
 
-## Measures created:
+### Measures created:
 1. Percentage of sales by product.
 2. Average monthly sales.
 3. Percentage of sales by region.
 
-## Visualization screenshot:
+### Visualization screenshot:
 ![17309556545254756239112319005474](https://github.com/user-attachments/assets/e0789195-5c4a-4ba2-b8d7-adfe9cd980d8)
 
-### Conclusion:
+## Conclusion:
 This analysis highlights key trends and opportunities for growth in the retail store's sales data. The findings indicate:
 - Shoes are the top-performing product category.
 - Regional sales vary, with the South region leading and the West region requiring attention.
 - Monthly sales patterns show February as the strongest and July as the weakest.
 
-# Recommendations
+### Recommendations
 1. Focus marketing efforts on high-potential regions and product categories.
 2. Investigate and address regional sales disparities.
 3. Optimize sales strategies for peak and off-peak periods.
 
 
 
-#### CONTINUATION-OF-LITA-FINAL-PROJECT-From-Tajudeen-silifat-
+### CONTINUATION-OF-LITA-FINAL-PROJECT-From-Tajudeen-silifat-
 ## A summary of sales data and customer subscription data using excel, SQL and power bi PT2
 
-### PROJECT 2: CUSTOMER SUBSCRIPTION DATA
+## PROJECT 2: CUSTOMER SUBSCRIPTION DATA
 
 ### EXCEL REPORT:
 
-## Data Cleaning:
+### Data Cleaning:
 - Removed duplicates
 - Ensured data accuracy
 
-## New Tables Created:
+### New Tables Created:
 - Cancelled subscriptions
 - Subscription duration in days
 
@@ -179,7 +179,7 @@ This analysis highlights key trends and opportunities for growth in the retail s
 
 ## Check the file above for more details: lita project (Sales and customer data) 
 
-### SQL  Analysis Report
+## SQL  Analysis Report
 
 To better understand customer subscription trends and sales patterns, SQL queries were utilized to extract and analyze data from the retail store's database. The queries focused on:
 1. Total number of customers from each region
@@ -203,14 +203,14 @@ To better understand customer subscription trends and sales patterns, SQL querie
 
 ![17309617539195405403379884222655](https://github.com/user-attachments/assets/73f21f50-e592-4976-8f3e-33081139bbad)
 
-### Conclusion:
+## Conclusion:
 
 This analysis reveals insights into customer subscription behavior, highlighting:
 - Active and canceled subscription trends.
 - Regional subscriber dynamics.
 - Popular subscription types.
 
-# Recommendations:
+### Recommendations:
 1. Leverage popular subscription types to drive customer acquisition.
 2. Tailor marketing strategies to regional subscriber patterns.
 3. Proactive retention efforts in regions with high cancellation rates.
