@@ -44,7 +44,8 @@
 
 ## Screenshots of Pivot Table:
 
-[Insert screenshots or descriptions of pivot tables, charts, or graphs created]
+![17309546047266983441043427605201](https://github.com/user-attachments/assets/55ff3ae0-da46-4b5a-be4c-ba05dbc1b919)
+
 
 ## check this file for further details :lita project(Sales and Customer data).xlsx
 
